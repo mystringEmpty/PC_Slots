@@ -1,0 +1,8 @@
+reply_feats_empty: "{pc}当前专长栏空空如也~"
+reply_feats_list: "{pc}当前专长栏:\n{inv}"
+reply_feats_edited: "{self}已更新{pc}的专长栏\n当前专长:\n{li}"
+reply_feats_edit_empty: "请{pc}输入待编辑的专长"
+reply_feats_add: "{self}已将{item}加入{pc}的专长栏\n当前专长:\n{li}"
+reply_feats_del: "{self}已将{item}移出{pc}的专长栏\n剩余专长:\n{inv}"
+reply_feats_not_found: "{pc}的专长栏内并无{item}×"
+reply_feats_clr: "{self}已清空{pc}的专长栏"

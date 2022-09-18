@@ -1,0 +1,8 @@
+reply_Spells_empty: "{pc}当前法术栏空空如也~"
+reply_Spells_list: "{pc}当前法术栏:\n{inv}"
+reply_Spells_edited: "{self}已更新{pc}的法术栏\n当前法术:\n{li}"
+reply_Spells_edit_empty: "请{pc}输入待编辑的法术"
+reply_Spells_add: "{self}已将{item}加入{pc}的法术栏\n当前法术:\n{li}"
+reply_Spells_del: "{self}已将{item}移出{pc}的法术栏\n剩余法术:\n{inv}"
+reply_Spells_not_found: "{pc}的法术栏内并无{item}×"
+reply_Spells_clr: "{self}已清空{pc}的法术栏"

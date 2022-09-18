@@ -1,0 +1,7 @@
+reply_status_empty: "{pc}当前状态栏空空如也~"
+reply_status_list: "{pc}当前状态栏:\n{li}"
+reply_status_edited: "{self}已更新{pc}的状态栏\n当前状态:\n{li}"
+reply_status_update: "{self}已更新{pc}的状态\n{change}"
+reply_status_edit_empty: "请{pc}输入待编辑的状态"
+reply_status_not_found: "{pc}的状态栏内并无{item}×"
+reply_status_clr: "{self}已清空{pc}的状态栏"
